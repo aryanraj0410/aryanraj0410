@@ -1,42 +1,51 @@
-# 👋 Hi, I'm Aryan Raj
+# Aryan Raj
 
-## 🧑‍💻 About Me
-I'm a passionate software developer with a keen interest in web development, open-source contributions, and always eager to learn new technologies.
+### 👨‍💻 About Me
+Hi there! I'm Aryan Raj, a passionate Computer Science student at Vellore Institute of Technology, specializing in software development and emerging technologies. I enjoy creating impactful applications and exploring innovative solutions to real-world problems. 🚀
 
-- 🔭 I’m currently working on improving my skills in full-stack development.
-- 🌱 I’m currently learning React, Node.js, and exploring cloud services like AWS.
-- 💬 Ask me about JavaScript, Python, and web development in general.
-- 📫 How to reach me: aryanraj0410@example.com
-- ⚡ Fun fact: I love playing chess and solving puzzles.
+### 🛠️ Technical Skills
+- **Languages**: Java, C++, JavaScript, SQL, Kotlin
+- **Frameworks/Technologies**: React, Node.js, MongoDB, Firebase
+- **Tools**: Android Studio, Visual Studio Code, IntelliJ IDEA
+- **Areas of Expertise**: MERN Stack, Android Application Development, Data Structures & Algorithms, Cloud Technologies
 
-## 📈 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanraj0410&show_icons=true&theme=radical)
+### 📂 Projects
+Here are some of the projects I've worked on:
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aryanraj0410/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/aryanraj0410)
+1. **[Snack Squad](https://github.com/sidharthghai4242/fooddeliveryandorderapplicationroject)**
+   - **Tech Stack**: Android Studio, Firebase
+   - A demo food-ordering application with secure user authentication and a seamless interface.
 
-## 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
+2. **[AI Chatbot](https://github.com/aryanraj0410/ChatBot)**
+   - **Tech Stack**: Android Studio, Google Gemini API
+   - A conversational chatbot that generates responses based on user input.
 
-## 🏆 Top Projects
-- [**Project 1**](https://github.com/aryanraj0410/project1): Brief description of Project 1.
-- [**Project 2**](https://github.com/aryanraj0410/project2): Brief description of Project 2.
-- [**Project 3**](https://github.com/aryanraj0410/project3): Brief description of Project 3.
+3. **[Pigeon Post](https://github.com/aryanraj0410/Pigeon-Post-Frontend)**
+   - **Tech Stack**: MERN Stack, MongoDB
+   - A Twitter-like social media platform with features like user authentication, post creation, and real-time updates.
 
-## 📚 Blog Posts
-- [**Title of Blog Post 1**](https://blog.example.com/post1)
-- [**Title of Blog Post 2**](https://blog.example.com/post2)
+### 🎓 Education
+- **B.Tech in Computer Science and Engineering**
+  - Vellore Institute of Technology (2021 – 2025)
+- **Senior Secondary Examination**
+  - Springdale’s School, Kota (2019 – 2021)
+- **Secondary Examination**
+  - D.A.V Public School, Bokaro (2018 – 2019)
 
-## 💖 Support Me
-If you like my work, feel free to:
-- ⭐️ Star the repositories you find useful.
-- 🗣️ Share your feedback or suggestions.
-- ☕ Buy me a coffee: [Buy Me a Coffee](https://buymeacoffee.com/aryanraj0410)
+### 📈 Certifications
+- **Google Cloud Digital Leader** - Google
+- **Android Application Development using Kotlin** - Smart Bridge + Google
+- **Basic Web Design** - Udemy
 
-Thanks for visiting my profile! Have a great day! 😊
+### 💼 Work Experience
+- **Android Application Developer Intern** @ Code Clause (Dec 2023 – Jan 2024)
+  - Developed two Android applications using Kotlin and Android Studio.
+
+- **Educator Intern** @ Unacademy (Nov 2023 – Jan 2024)
+  - Conducted 128+ hours of online classes for IIT-JEE and computer-related courses.
+
+### 🌐 Let's Connect
+- **Portfolio**: [aryannraj.me](https://www.aryannraj.me/)
+- **LinkedIn**: [Aryan Raj](https://www.linkedin.com/in/aryan-raj-79a7a9247/)
+- **GitHub**: [aryanraj0410](https://github.com/aryanraj0410)
+- **Email**: aryannraj0410@gmail.com
