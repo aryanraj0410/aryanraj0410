@@ -1,6 +1,6 @@
 # Aryan Raj
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Coding GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 *Passion for coding and building innovative solutions.*
 
 ### 👨‍💻 About Me
