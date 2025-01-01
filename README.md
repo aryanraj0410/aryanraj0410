@@ -63,4 +63,4 @@ Here are some of the projects I've worked on:
 - **Portfolio**: [aryannraj.me](https://www.aryannraj.me/)
 - **LinkedIn**: [Aryan Raj](https://www.linkedin.com/in/aryan-raj-79a7a9247/)
 - **GitHub**: [aryanraj0410](https://github.com/aryanraj0410)
-- **Email**: aryannraj0410@gmail.com
+- **Email**: aryanraj4work@gmail.com
