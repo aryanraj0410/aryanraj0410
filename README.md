@@ -1,66 +1,65 @@
-# Aryan Raj
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
 
-![Coding GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
-*Passion for coding and building innovative solutions.*
+# 👋 Hey, I’m Aryan Raj  
 
-### 👨‍💻 About Me
-Hi there! I'm Aryan Raj, a passionate Computer Science student at Vellore Institute of Technology, specializing in software development and emerging technologies. I enjoy creating impactful applications and exploring innovative solutions to real-world problems. 🚀
-
----
-
-### 🛠️ Technical Skills
-- **Languages**: Java, C++, JavaScript, SQL, Kotlin
-- **Frameworks/Technologies**: React, Node.js, MongoDB, Firebase
-- **Tools**: Android Studio, Visual Studio Code, IntelliJ IDEA
-- **Areas of Expertise**: MERN Stack, Android Application Development, Data Structures & Algorithms, Cloud Technologies
+🎯 Full-stack developer in the making | Android tinkerer | AI enthusiast | Blockchain explorer  
 
 ---
 
-### 📂 Projects
-Here are some of the projects I've worked on:
-
-1. **[Snack Squad](https://github.com/sidharthghai4242/fooddeliveryandorderapplicationroject)**
-   - **Tech Stack**: Android Studio, Firebase
-   - A demo food-ordering application with secure user authentication and a seamless interface.
-
-2. **[AI Chatbot](https://github.com/aryanraj0410/ChatBot)**
-   - **Tech Stack**: Android Studio, Google Gemini API
-   - A conversational chatbot that generates responses based on user input.
-
-3. **[Pigeon Post](https://github.com/aryanraj0410/Pigeon-Post-Frontend)**
-   - **Tech Stack**: MERN Stack, MongoDB
-   - A Twitter-like social media platform with features like user authentication, post creation, and real-time updates.
+## 🔧 Tech Stack
+- **Languages:** Java, JavaScript, SQL, Kotlin, Solidity  
+- **Frameworks & Libraries:** React, Node.js, Express.js, Next.js, TensorFlow  
+- **Tools:** VS Code, Android Studio, IntelliJ IDEA, Git, Postman, MongoDB Compass  
+- **Platforms:** Firebase, Google Cloud, Vercel, Blockchain  
 
 ---
 
-### 🎓 Education
-- **B.Tech in Computer Science and Engineering**
-  - Vellore Institute of Technology (2021 – 2025)
-- **Senior Secondary Examination**
-  - Springdale’s School, Kota (2019 – 2021)
-- **Secondary Examination**
-  - D.A.V Public School, Bokaro (2018 – 2019)
+## 🚀 Projects
+
+### 🚌 [Online Ticket Reservation System](https://github.com/aryanraj0410/Online-Ticket-Reservation)  
+- Java + MySQL + JDBC  
+- Supports **40+ concurrent users**, **100+ records**  
+- <500ms query retrieval speed  
 
 ---
 
-### 📈 Certifications
-- **Google Cloud Digital Leader** - Google
-- **Android Application Development using Kotlin** - Smart Bridge + Google
-- **Basic Web Design** - Udemy
+### 🩻 [LUMI MRI Assistant](https://github.com/aryanraj0410/ChatBot)  
+- Android App + TensorFlow Lite  
+- Classifies **ACL injuries** from MRI scans with **90% accuracy**  
+- AI-generated doctor-style summaries  
 
 ---
 
-### 💼 Work Experience
-- **Android Application Developer Intern** @ Code Clause (Dec 2023 – Jan 2024)
-  - Developed two Android applications using Kotlin and Android Studio.
-
-- **Educator Intern** @ Unacademy (Nov 2023 – Jan 2024)
-  - Conducted 128+ hours of online classes for IIT-JEE and computer-related courses.
+### 🛒 [GoShop E-Commerce](https://github.com/aryanraj0410/GoShop)  
+- MERN Stack based mini e-commerce site  
+- Full auth system + cart + secure checkout  
+- Admin panel for product/category management  
 
 ---
 
-### 🌐 Let's Connect
-- **Portfolio**: [aryannraj.me](https://www.aryannraj.me/)
-- **LinkedIn**: [Aryan Raj](https://www.linkedin.com/in/aryan-raj-79a7a9247/)
-- **GitHub**: [aryanraj0410](https://github.com/aryanraj0410)
-- **Email**: aryanraj4work@gmail.com
+## 💼 Work Experience
+- **Android App Dev Intern @ Code Clause** (Dec 2023 – Jan 2024)  
+  Built **2 Android apps** with Kotlin + Android Studio  
+- **Educator Intern @ Unacademy** (Nov 2023 – Jan 2024)  
+  Taught **128+ hours** of IIT-JEE & CS courses  
+
+---
+
+## 📜 Certs
+- ☁️ Google Cloud Digital Leader – *Google*  
+- 📱 Android Dev with Kotlin – *Smart Bridge + Google*  
+- 🌐 Basic Web Design – *Udemy*  
+
+---
+
+## 🌍 Let’s Connect
+- 📧 [aryanraj4work@gmail.com](mailto:aryanraj4work@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-raj-79a7a9247/)  
+- 💻 [GitHub](https://github.com/aryanraj0410)  
+- 🌐 [Portfolio](https://www.aryannraj.me/)  
+
+---
+
+⭐️ Always hacking on **MERN apps, Android projects & AI ideas**. Open for collabs & cool side-projects!  
